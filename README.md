@@ -1,5 +1,5 @@
-# Template_FlaskAPI
-Template repository for creating a basic API with CRUD ops
+# A4A_FlaskAPI_Solution
+repository for creating a basic API with CRUD ops for A4A assessment
 
 ## Task
 
