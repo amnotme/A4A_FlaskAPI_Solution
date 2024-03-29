@@ -1,6 +1,14 @@
 # A4A_FlaskAPI_Solution
 repository for creating a basic API with CRUD ops for A4A assessment
 
+## Presentation
+A presentation is provided depicting:
+1. About me
+2. Proud Project
+3. Craft Demo - placeholder slide
+
+You can reach the [presentation here](https://docs.google.com/presentation/d/1E2yLeENSo5K8Pu0g-1EbDE6dtxQv7_1lqarj1NR2RjM/edit#slide=id.geb4c6d2e93_0_137)
+
 ## Task
 
 **Given players.csv, create a service that can:**
